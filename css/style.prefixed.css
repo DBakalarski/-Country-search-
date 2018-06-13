@@ -1,0 +1,38 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  background: #c7ecee;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+
+.container h1 {
+  padding-top: 115px;
+}
+
+.container .input-place {
+  padding: 20px;
+}
+
+.container .input-place input {
+  background: #dff9fb;
+}
+
+.container .input-place button {
+  border: 1px solid #95afc0;
+  background: #dff9fb;
+  border-radius: 5%;
+  width: 145px;
+}
+
+.container li {
+  list-style: none;
+  padding-bottom: 15px;
+  padding-right: 40px;
+}
+/*# sourceMappingURL=style.prefixed.css.map */
